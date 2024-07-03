@@ -1,3 +1,3 @@
 # ArizonaFoods
 
-MERN stack Food delivery application 
+A food delivery application 
